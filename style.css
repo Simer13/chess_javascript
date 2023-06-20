@@ -1,0 +1,20 @@
+#gameboard{
+    width: 320px;
+    height: 320px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square
+{
+    height: 40px;
+    width: 40px;
+
+}
+
+.biege{
+    background-color: rgb(118, 103, 87);
+}
+.brown{
+    background-color: rgb(130, 60, 60);
+}
