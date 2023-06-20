@@ -12,9 +12,19 @@
 
 }
 
+.square svg{
+    height: 30px;
+    width: 30px;
+    margin: 5px;
+}
+
 .biege{
     background-color: rgb(118, 103, 87);
 }
 .brown{
     background-color: rgb(130, 60, 60);
+}
+.black{
+    fill: 'black';
+    
 }
